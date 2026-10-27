@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RAG_DeepDive/RAG_DeepDive.csproj" />
+  <Project Path="LabRunner/LabRunner.csproj" />
+</Solution>
